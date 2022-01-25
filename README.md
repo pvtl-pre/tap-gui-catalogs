@@ -1,1 +1,1 @@
-# tap-gui-catalogs
+# Catalogs for the Tanzu Application Platform
